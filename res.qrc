@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/nav">
+        <file>res/ic/adelante.png</file>
+        <file>res/ic/adelante_active.png</file>
+        <file>res/ic/adelante_inactive.png</file>
+        <file>res/ic/adelante_pressed.png</file>
+        <file>res/ic/atras.png</file>
+        <file>res/ic/atras_active.png</file>
+        <file>res/ic/atras_inactive.png</file>
+        <file>res/ic/atras_pressed.png</file>
+        <file>res/ic/subir.png</file>
+        <file>res/ic/ir.png</file>
+        <file>res/ic/f5.png</file>
+    </qresource>
+    <qresource prefix="/show">
+        <file>res/ic/icon.png</file>
+        <file>res/ic/lista.png</file>
+    </qresource>
+    <qresource prefix="/select">
+        <file>res/ic/invert_select.png</file>
+        <file>res/ic/no_select.png</file>
+        <file>res/ic/select_all.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>res/icon.png</file>
+    </qresource>
+</RCC>
